@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Tech News
 
-`CURSO`
+`Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º Semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Esse projeto se trata de um agregador de notícias, aonde usuários podem acessar e compartilhar diversos tipos de notícias.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Cláudio Lopes Coelho Barroso
+* Guilherme Germano
+* Paulo Romano da Silva
+* Pedro Henrique Aguilar
+* Pedro Henrique Batista
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
