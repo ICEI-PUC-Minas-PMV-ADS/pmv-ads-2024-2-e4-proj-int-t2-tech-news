@@ -1,43 +1,24 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente as notícias e informações vem sendo itens essenciais no dia a dia das pessoas e  organizações. As informações corretas, precisas e de fácil observação são fundamentais para se manter atualizado. 
+
+Com o aumento do número de plataformas como sites, fóruns, blogs e jornais as pessoas acabaram perdendo o interesse em procurar novas notícias e informações pois muitas das vezes acabam encontrando inúmeras notícias que não tem haver com seus interesses. Através de uma pesquisa realizada pelo jornal nexo em 2022,” a natureza e o tom dos temas, além da repetição de certos assuntos em diferentes veículos foram apontadas como as principais razões para o comportamento”.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Com a alta quantidade de plataformas de noticias os usuários precisam ficar pesquisando em sites diferentes para saber sobre as notícias, sendo assim isso pode ser um processo demorado e frustrante. O usuário pode precisar visitar vários sites diferentes para encontrar as informações que precisa, o que pode levar a uma perda de tempo significativa. Além disso, pode ser difícil determinar quais fontes de notícias são confiáveis e imparciais, o que pode levar a uma falta de confiança nas informações encontradas. Outra preocupação é que o usuário possa perder informações importantes ou relevantes se não tiver tempo para pesquisar em todos os sites relevantes. Em resumo, a falta de conveniência e confiabilidade pode tornar o processo de encontrar notícias uma tarefa tediosa e difícil para o usuário. Além disso os usuários encontram muitas noticias que não possuem interesse.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo do nosso site de notícias é fornecer um espaço para os usuários sugerirem temas que possam ajudar outras pessoas a economizar tempo e esforço na busca de informações relevantes. Queremos criar uma plataforma colaborativa em que os usuários possam compartilhar notícias sobre temas que são importantes para eles e para a comunidade em geral. Nosso objetivo é tornar mais fácil e eficiente a descoberta de informações relevantes, proporcionando uma experiência mais personalizada e adaptada aos interesses dos usuários.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação do programa  deve-se ao fato de que os usuários possam sugerir notícias, ajudando a  proporcionar uma experiência mais completa e diversa para os leitores. Quando os usuários podem sugerir notícias, o site se torna mais abrangente e capaz de cobrir uma variedade maior de assuntos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo. Ou, o grupo poderá consultar e justificar o impacto do problema para o público-alvo por meio de pesquisas em outras fontes. Neste caso, é essencial que todos os dados apresentados estejam acompanhados de suas fontes (conforme padrão ABNT).
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, ao permitir que os usuários sugiram notícias, o site pode se tornar mais engajador e interativo. Os leitores podem se sentir mais conectados com a plataforma e com outros leitores, já que têm a oportunidade de compartilhar notícias que acham relevantes e discutir essas notícias com outras pessoas.
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+composto por pessoas que estão interessadas em tecnologia, gadgets e inovações. Esse público inclui desde entusiastas de tecnologia até profissionais da área, como programadores, desenvolvedores de software e engenheiros de sistemas.
+Esses usuários estão sempre buscando se manter atualizados sobre as tendências e avanços tecnológicos mais recentes, e valorizam a rapidez e a precisão das informações compartilhadas. Eles estão dispostos a dedicar tempo e esforço para pesquisar e descobrir as notícias mais relevantes, mas também desejam ter acesso a uma ampla variedade de fontes e perspectivas.
