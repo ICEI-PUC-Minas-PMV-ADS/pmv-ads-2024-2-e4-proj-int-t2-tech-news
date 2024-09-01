@@ -20,5 +20,5 @@ A criação do programa  deve-se ao fato de que os usuários possam sugerir not�
 Além disso, ao permitir que os usuários sugiram notícias, o site pode se tornar mais engajador e interativo. Os leitores podem se sentir mais conectados com a plataforma e com outros leitores, já que têm a oportunidade de compartilhar notícias que acham relevantes e discutir essas notícias com outras pessoas.
 
 ## Público-Alvo
-composto por pessoas que estão interessadas em tecnologia, gadgets e inovações. Esse público inclui desde entusiastas de tecnologia até profissionais da área, como programadores, desenvolvedores de software e engenheiros de sistemas.
+Composto por pessoas que estão interessadas em tecnologia, gadgets e inovações. Esse público inclui desde entusiastas de tecnologia até profissionais da área, como programadores, desenvolvedores de software e engenheiros de sistemas.
 Esses usuários estão sempre buscando se manter atualizados sobre as tendências e avanços tecnológicos mais recentes, e valorizam a rapidez e a precisão das informações compartilhadas. Eles estão dispostos a dedicar tempo e esforço para pesquisar e descobrir as notícias mais relevantes, mas também desejam ter acesso a uma ampla variedade de fontes e perspectivas.
