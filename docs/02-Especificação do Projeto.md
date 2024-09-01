@@ -108,8 +108,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID      | Descrição do Requisito                                                                                       | Prioridade |
 | ------- | ------------------------------------------------------------------------------------------------------------ | ---------- |
 | RNF-001 | O sistema deve ser responsivo para ser compatível com dispositivos móveis                                    | ALTA       |
-| RNF-002 | A aplicação será desenvolvida através das linguagens C#, .NET e do banco de dados SQL.                       | ALTA       |
-| RNF-003 | O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub, Heroku)                 | MÉDIA      |
+| RNF-002 | A aplicação será desenvolvida através das linguagens C#                       | ALTA       |
+| RNF-003 | O site deve ser publicado em um ambiente acessível publicamente na Internet (AWS, Azure)                 | MÉDIA      |
 | RNF-004 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA       |
 | RNF-005 | O sistema deve respeitar o tempo máximo de 160 segundos durante processamentos                               | MÉDIA      |
 | RNF-006 | A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade.                      | MÉDIA      |
@@ -121,12 +121,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | ID  | Restrição                                                                                                                               |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | O projeto deverá ser entregue até o final do semestre (06/12/2023)                                                                      |
-| 02  | A aplicação deverá ser construída utilizando apenas o framework ASP.NET usando a linguagem C#, e o banco de dados Microsoft SQL Server. |
+| 01  | O projeto deverá ser entregue até o final do semestre (08/12/2024)                                                                      |
+| 02  | A aplicação deverá ser construída utilizando a linguagem C#, e o banco de dados MySQL. |
 | 03  | O projeto não poderá ser entregue sem que as funcionalidades essenciais estejam prontas.                                                |
-| 04  | A aplicação deve ser desenvolvida inteiramente com módulos Back-End                                                                     |
+| 04  | Frontend desenvolvido com HTML, CSS e Bootstrap.                                                                   |
 | 05  | A equipe de projeto será restrita aos membros do grupo.                                                                                 |
-| 06  | A aplicação interativa não deve demandar pagamento.                                                                                     |
+| 06  | Necessidade do uso de pelo menos uma API.                                                                                 |
 
 ## Diagrama de Casos de Uso
 
